@@ -1,10 +1,9 @@
 ## Issue Type
 
 <!-- ignore-task-list-start -->
-
-- [ ] 🪲 Fix
-- [ ] 💡 Improvement
-- [ ] 🏁 Feature
+- [] 🪲 Fix
+- [] 💡 Improvement
+- [] 🏁 Feature
 <!-- ignore-task-list-end -->
 
 ## Description
@@ -17,7 +16,7 @@
 
 ## Checklist
 
-- [ ] I have updated configuration with changes
-- [ ] I have tested that my fix or feature works and meets acceptance criteria
-- [ ] I have updated user documentation
-- [ ] I am merging into the correct branch
+- [] I have updated configuration with changes
+- [] I have tested that my fix or feature works and meets acceptance criteria
+- [] I have updated user documentation
+- [] I am merging into the correct branch
